@@ -1,0 +1,35 @@
+h1{
+	color:blue;
+	background-color:yellow;
+	text-align:center;
+}
+h2{
+	color:white;
+	background-color:green;
+	padding:10px;
+	border-radius:10px;
+}
+p{
+	color:black;
+	background-color:lightgray;
+	padding:10px;
+	border-radius:10px;
+}
+id-selector{
+	color:red;
+	background-color:black;
+	padding:10px;
+	border-radius:10px;
+}
+.class-selector{
+	color:orange;
+	background-color:darkgray;
+	padding:10px;
+	border-radius:10px;
+}
+#unique-id{
+	color:purple;
+	background-color:lightblue;
+	padding:10px;
+	border-radius:10px;
+}
